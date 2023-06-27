@@ -15,7 +15,7 @@ private Date orderDate;
 private String customerName;
 private String shipAddress;
 private String notes;
-private float tax;
+private Float tax;
 
 
     
